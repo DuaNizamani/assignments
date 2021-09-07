@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Navigation tab</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <style media="screen">
+      *
+      {
+        margin:0;
+        padding:0;
+      }
+      Img{
+        border-radius:50%;
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+
+      }
+
+      body{
+        text-align:center
+      }
+
+
+
+      .text:hover + .layer {
+        opacity : 1;
+      }
+
+      .layer
+      {
+        /* position: absolute; */
+        /* left:50% */
+        /* transform: translateX(-50%); */
+        button:0;
+        opacity:0;
+        transition: 1s;
+      }
+      .text
+      {
+        display: inline-block;
+        padding: 15px;
+        margin-top: 50px;
+        color:gray;
+        cursor: pointer;
+      }
+
+      .center
+      {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <ul>
+      <li><a href="https://www.google.com" target="_blank">Home</a></li>
+      <li><a href="https://www.google.com" target="_blank">About us</a></li>
+      <li><a href="https://www.google.com" target="_blank">Our blogs</a></li>
+      <li><a href="https://www.google.com" target="_blank">Contact us</a></li>
+    </ul>
+    <div class="text">
+      <h1>Voice Out!</h1>
+    </div>
+    <div class="layer">
+     <img style="width: 500px ; height:500px";
+      src="Art-Resistance.jpg" alt="image here" class="center">
+    </div>
+
+
+
+</html>

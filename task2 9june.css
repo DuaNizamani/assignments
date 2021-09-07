@@ -1,0 +1,112 @@
+h1{
+  font-style: italic;
+  color:black;
+}
+.boxx{
+  background-color: pink;
+  border: 5px solid #8000ff;
+width:500px;
+height:300px;
+}
+div{
+  /* padding-left: 20px; */
+padding: 20px;
+
+}
+p{
+  margin-left: 20px;
+  border: 1px solid;
+  border-radius:50%;
+  padding: 10px;
+  float: left;
+  text-align: center;
+}
+#p1{
+  background-color: green;
+  width:50px;
+  height: 50px;
+}
+#p2{
+  background-color: yellow;
+  width:50px;
+  height: 50px;
+}
+#p3{
+  background-color: white;
+  width:50px;
+  height: 50px;
+}
+#p4{
+  background-color:blue;
+  width:50px;
+  height:50px;
+}
+
+#p5{
+  background-color:#0080ff 	;
+  width:50px;
+  height:50px;
+}
+#p6{
+  background-color:white;
+  width:50px;
+  height:50px;
+}
+#p7{
+  background-color:green;
+  width:50px;
+  height:50px;
+}
+#p8{
+  background-color:yellow;
+  width:50px;
+  height:50px;
+}
+#p9{
+  background-color:green;
+  width:50px;
+  height:50px;
+}
+#p10{
+  background-color:;
+  width:50px;
+  height:50px;
+}
+#p11{
+  background-color:white;
+  width:50px;
+  height:50px;
+}
+#p12{
+  background-color:yellow;
+  width:50px;
+  height:50px;
+}
+#p13{
+  background-color:green;
+  width:50px;
+  height:50px;
+}
+#p14{
+  background-color:white;
+  width:50px;
+  height:50px;
+}
+
+#p15{
+  background-color:#0080ff;
+  width:50px;
+  height:50px;
+}
+#p16{
+  background-color:blue;
+  width:50px;
+  height:50px;
+}
+
+a:link{
+  color:black;
+}
+a:visited{
+  color:black;
+}

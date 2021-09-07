@@ -1,0 +1,30 @@
+
+li{
+  margin-top:0px;
+display: inline;
+padding-right:;
+}
+ul{
+  margin-top:0%;
+  display: inline;
+  text-align: left;
+}
+Img{
+  border-radius:50%;
+}
+body{
+  background-image: url(lagoon-nebula-sagittarius-1.jpg);
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+background-image{
+  width: 500px height: 500px;
+}
+a:link {
+  color: white;
+}
+a:visited{
+  color: white
+}
+a:

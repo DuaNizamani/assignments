@@ -1,0 +1,45 @@
+li{
+display: inline;
+margin: 30px;
+  border:1px solid white;
+  padding: 10px;
+  font-style: italic; font-size: 20px
+
+
+
+}
+
+ul{
+  margin-top: 50px;
+  padding:50px;
+  background:linear-gradient(black,gray,pink);
+
+
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+
+
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: green;
+}
+
+a:active {
+  color: yellow;
+  }
+
+  h2{
+    text-align: center;
+    font-style: oblique;
+    color: gray
+
+  }
